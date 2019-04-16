@@ -1,0 +1,7 @@
+D:\18.11.2279\ResponsiPemrog2279\ResponsiPemrog2279\obj\Debug\ResponsiPemrog2279.csprojAssemblyReference.cache
+D:\18.11.2279\ResponsiPemrog2279\ResponsiPemrog2279\obj\Debug\ResponsiPemrog2279.csproj.CoreCompileInputs.cache
+D:\18.11.2279\ResponsiPemrog2279\ResponsiPemrog2279\bin\Debug\ResponsiPemrog2279.exe.config
+D:\18.11.2279\ResponsiPemrog2279\ResponsiPemrog2279\bin\Debug\ResponsiPemrog2279.exe
+D:\18.11.2279\ResponsiPemrog2279\ResponsiPemrog2279\bin\Debug\ResponsiPemrog2279.pdb
+D:\18.11.2279\ResponsiPemrog2279\ResponsiPemrog2279\obj\Debug\ResponsiPemrog2279.exe
+D:\18.11.2279\ResponsiPemrog2279\ResponsiPemrog2279\obj\Debug\ResponsiPemrog2279.pdb
